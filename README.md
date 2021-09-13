@@ -1,8 +1,8 @@
 
 # Tourism_website
-This is a tour and travel website using HTML, CSS and JS.
+This is a tour and travel website.
 
-### Built-With
+### Built with
 <ul>
   <li>HTML</li>
   <li>CSS</li>
