@@ -9,7 +9,7 @@ This is a tour and travel website.
   <li>JS</li>
  </ul>
  <br>
- <h2>OverView</h2>3
+ <h2>OverView</h2>
  <img src = "1.png">
  <img src = "2.png">
  <img src = "3.png">
