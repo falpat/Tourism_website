@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<img src="C:\Users\Falguni\Dropbox\My PC (DESKTOP-RDE3LHG)\Desktop\Amrita\Semester 2\19CSE103 - User Interface Design\Task 4\india.png" onmousemove="showCoords(event)">
+    
+</img>
+
+
+<p id="demo"></p>
+
+<script>
+    function showCoords(event)
+	 {
+        var x = event.clientX;
+        var y = event.clientY;
+        var coords = "X coords: " + x + ", Y coords: " + y;
+        document.getElementById("demo").innerHTML = coords;
+         }
+</script>
+
+</body>
+</html>
